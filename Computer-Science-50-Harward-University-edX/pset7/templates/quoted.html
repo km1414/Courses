@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quoted
+{% endblock %}
+
+{% block main %}
+    <form action="{{ url_for('quote') }}" method="post">
+        <fieldset>
+            Name: {{ output['name'] }}   Price: {{ output['price'] }}
+        </fieldset>
+    </form>
+{% endblock %}
