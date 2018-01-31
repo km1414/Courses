@@ -3,7 +3,7 @@
 
   * [Week 1] Introduction to C. Command Line, Data Types, Operators, Conditional Statements, Loops. 
 
-[Problem set 1](/pset1) 
+[Problem set 1](/pset1/) 
 
   * [Week 2] Functions, Variables and Scope, Arrays, Command Line Arguments, Magic Numbers. 
 
@@ -11,7 +11,7 @@
 
   * [Week 3] Computational Complexity, Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Linear Search, Binary Search. 
 
-[Problem set 3](r/pset3) 
+[Problem set 3](/pset3) 
   
   * [Week 4] Hexadecimal, Pointers, Dynamic Memory Allocation, Structures, Defining Custom Types, Recursion, Call Stack, File Pointers. 
 
