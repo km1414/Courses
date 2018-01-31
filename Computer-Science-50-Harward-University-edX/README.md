@@ -3,7 +3,7 @@
 
   * [Week 1] Introduction to C. Command Line, Data Types, Operators, Conditional Statements, Loops. 
 
-[Problem set 1](/pset1/) 
+[Problem set 1](/pset1/credit.c) 
 
   * [Week 2] Functions, Variables and Scope, Arrays, Command Line Arguments, Magic Numbers. 
 
