@@ -28,6 +28,6 @@
   
 ## Course 5 - Sequence Models ([Coursera link](https://www.coursera.org/learn/nlp-sequence-models))
 
-  * [Week 1] Recurrent Neural Networks. [Programming assignments](Deep-Learning-Specialization-Coursera/Course-5-Sequence-Models/week-1/)
-  * [Week 2] Natural Language Processing & Word Embeddings. [Programming assignments](Deep-Learning-Specialization-Coursera/Course-5-Sequence-Models/week-2/)
-  * [Week 3] Sequence models & Attention mechanism. [Programming assignments](Deep-Learning-Specialization-Coursera/Course-5-Sequence-Models/week-3/)
+  * [Week 1] Recurrent Neural Networks. [Programming assignments](/Deep-Learning-Specialization-Coursera/Course-5-Sequence-Models/week-1/)
+  * [Week 2] Natural Language Processing & Word Embeddings. [Programming assignments](/Deep-Learning-Specialization-Coursera/Course-5-Sequence-Models/week-2/)
+  * [Week 3] Sequence models & Attention mechanism. [Programming assignments](/Deep-Learning-Specialization-Coursera/Course-5-Sequence-Models/week-3/)
