@@ -24,4 +24,4 @@ Tasks: https://www.coursera.org/learn/data-cleaning/home/week/4
 
 Tasks: https://www.coursera.org/learn/exploratory-data-analysis/home/week/1
 
-<img src="/Data-Science-Specialization-Coursera/Course-4-Exploratory-Data-Analysis/Course-Project-1/plot1.png" height="210"/><img src="/Data-Science-Specialization-Coursera/Course-4-Exploratory-Data-Analysis/Course-Project-1/plot2.png" height="210"/><img src="/Data-Science-Specialization-Coursera/Course-4-Exploratory-Data-Analysis/Course-Project-1/plot3.png" height="210"/><img src="/Data-Science-Specialization-Coursera/Course-4-Exploratory-Data-Analysis/Course-Project-1/plot4.png" height="210"/>
+<img src="/images/example1.png" height="210"/><img src="/Data-Science-Specialization-Coursera/Course-4-Exploratory-Data-Analysis/Course-Project-1/plot2.png" height="210"/><img src="/Data-Science-Specialization-Coursera/Course-4-Exploratory-Data-Analysis/Course-Project-1/plot3.png" height="210"/><img src="/Data-Science-Specialization-Coursera/Course-4-Exploratory-Data-Analysis/Course-Project-1/plot4.png" height="210"/>
