@@ -16,6 +16,10 @@
 * [*Course 5 - Sequence Models*](/Deep-Learning-Specialization-Coursera/Course-5-Sequence-Models)
 ---
 
+# Advanced Machine Learning Specialization - Coursera
+
+* [*Course 1 - Introduction to Deep Learning*](/Advanced-Machine-Learning-Specialization-Coursera/Course-1-Introduction-to-Deep-Learning)
+
 # Applied Data Science with Python Specialization - Coursera
 
 * [*Course 1 - Introduction to Data Science in Python*](/Applied-Data-Science-with-Python-Specialization-Coursera/Course-1-Introduction-to-Data-Science-in-Python)
